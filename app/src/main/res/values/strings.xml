@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Test02</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <!--主页面-->
+    <string name="home_rb_profit">赚钱</string>
+    <string name="home_rb_gift">礼包</string>
+    <string name="home_rb_active">活动</string>
+    <string name="home_rb_exchange">兑换</string>
+    <string name="home_rb_my">我的</string>
+    <!--礼包-->
+    <string name="gift_search_gift">搜礼包</string>
+    <string name="gift_type_mobile">手游礼包</string>
+    <string name="gift_type_web">页游礼包</string>
+    <string name="gift_list_btn1">淘号</string>
+    <string name="gift_list_btn2">免费领取</string>
+</resources>
